@@ -5,7 +5,7 @@
 
 |EDA|이름|내용|
 |------|---|---|
-||[EDA_1] [1]|발화들의 평균 길이, Maximun길이, 단어 수 확인|
+||[EDA_1](https://github.com/hundredeuk2/Contest/blob/main/Scic2021/EDA_Length.ipynb)|발화들의 평균 길이, Maximun길이, 단어 수 확인|
 ||테스트2|테스트3|
 ||테스트2|테스트3|
 |PreProcess|이름|내용|
@@ -16,8 +16,3 @@
 ||테스트2|테스트3|
 ||테스트2|테스트3|
 ||테스트2|테스트3|
-
-
-
-
-[1] : https://github.com/hundredeuk2/Contest/blob/main/Scic2021/EDA_Length.ipynb
